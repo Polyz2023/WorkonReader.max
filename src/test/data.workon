@@ -1,0 +1,10 @@
+[-start-
+
+{mynum: int64} -> 789 ;
+{mystring: string} -> ' text ';
+{mybool: bool} -> true ;
+{myfloat: float} -> 5.2 ;
+{mylist: list} -> ["fd", 44, ["f"]]
+
+
+-end-]
