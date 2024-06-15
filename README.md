@@ -4,7 +4,7 @@ WorkonReader is designed to convert data from a .workon file to JSON format.
 
 ## What is this .workon file for?
 
- A .workon file is a strongly typed JSON with a different data format, which is similar to the JSON format. The library itself parses only int64 variables, which have the property of only reading data.
+ A .workon file is a strongly typed JSON with a different data format that is similar to the JSON format. The library itself parses many types of data, and can write data to a .workon file by converting data from json
 
  ---
 
@@ -47,6 +47,5 @@ Promise
 
 **New in this version:**
 - Fixed bugs
-- Add write func for .workon files
 
-> Version of WorkonReader : v1.2.0
+> Version of WorkonReader : v1.2.1
