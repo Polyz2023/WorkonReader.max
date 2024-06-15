@@ -47,6 +47,6 @@ Promise
 
 **New in this version:**
 - Fixed bugs
-- Add list with all types
+- Add write func for .workon files
 
-> Version of WorkonReader : v1.1.0
+> Version of WorkonReader : v1.2.0
