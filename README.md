@@ -46,6 +46,10 @@ Promise
 ---
 
 **New in this version:**
-- Fixed bugs
+- Fixed bug with workonWrite func
+- Add the [docs](https://abmax-max.onrender.com/root/modules/2024max/js/workonreader/1.2.0/offline/about)
+- Fixed parsing of lists
 
-> Version of WorkonReader : v1.2.1
+> Version of WorkonReader : v1.2.6
+
+> Learn [more](https://abmax-max.onrender.com/root/modules/2024max/js/workonreader/1.2.0/offline/about)

@@ -1,10 +1,5 @@
 [-start-
-
-{mynum: int64} -> 789 ;
-{mystring: string} -> ' text ';
-{mybool: bool} -> true ;
-{myfloat: float} -> 5.2 ;
-{mylist: list} -> ["fd", 44, ["f"]]
-
+{my: int64} -> 5 ;
+{d: list} -> [ 4,2,[5.5 ], [false] ];
 
 -end-]

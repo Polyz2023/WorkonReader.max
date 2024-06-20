@@ -1,13 +1,13 @@
 {
   "name": "workonreader",
-  "version": "1.2.1",
+  "version": "1.2.6",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "2024 MAX",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.19.2"
   },
